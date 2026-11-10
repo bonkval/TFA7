@@ -28,7 +28,6 @@
 
 ![Invalid avatar upload validation](screenshots/avatar-validation.png)
 
-![User edit form on mobile](screenshots/edit-user-mobile.png)
 
 ## Important additions
 
